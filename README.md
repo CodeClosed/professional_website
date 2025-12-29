@@ -1,4 +1,3 @@
-```markdown
 # 👨‍💻 Personal Portfolio Website
 
 ![Project Status](https://img.shields.io/badge/Status-Active-success)
@@ -30,7 +29,6 @@ A modern, responsive personal portfolio website designed to showcase my projects
 * **Frontend:** HTML5, CSS3 (Custom Variables, Flexbox, Grid), JavaScript (ES6).
 * **Design:** CSS Glassmorphism effects (`backdrop-filter`), Gradient text.
 * **Fonts:** [Outfit](https://fonts.google.com/specimen/Outfit) (Google Fonts).
-* **Icons:** Inline SVGs (No external icon libraries to keep it lightweight).
 
 ---
 
@@ -42,7 +40,6 @@ A modern, responsive personal portfolio website designed to showcase my projects
 ├── script.js           # Logic for theme toggle and scroll reveal
 ├── hero-bg.png         # Background image for Hero section
 ├── favicon.svg         # Website browser icon
-├── project-*.svg       # Placeholder images for project cards
 └── README.md           # Project documentation
 
 ```
@@ -114,7 +111,3 @@ Replace `hero-bg.png` with any high-quality image of your choice. Ensure you upd
 ---
 
 Built with ❤️ and vanilla code.
-
-```
-
-```
